@@ -1,6 +1,6 @@
-#PROJECT PROPOSAL 
+PROJECT PROPOSAL 
 
-  ##1. What is the problem you want to solve?    kjskjs
+1. What is the problem you want to solve?    kjskjs
 Since 1901, Nobel Prizes have been handed out yearly for outstanding contributions for humanity in chemistry, economics, literature, peace, physics, physiology and medicine. 
 This project tries to answer the following questions and through them explore new insights: 
 * What are some of outstanding trends in the Nobel Prize data over the past 116 years? 
@@ -9,12 +9,12 @@ This project tries to answer the following questions and through them explore ne
 * Does the Nobel Laureate data correlate with the Good Country Index data e.i. does countries with the most outstanding individuals are ? 
 * Are there trends in migration of the Nobel Laureates? 
 
-##2. Who is your client and why do they care about this problem?
+2. Who is your client and why do they care about this problem?
 The outcomes of this project might be of interest to the Nobel Prize community, countries, and science community at large. 
 Providing insights into 116 years of Nobel Prize data can help reveal new insights into conditions behind one of the most presti awards in the world.  
 Housing Nobel Laureates in a country can also be a big advantage for country’s universities as they represent the world-famous scientific, cultural and humanitarian findings and accomplishments. They also give good publicity to the countries as the Nobel Laureates who represent countries in the international community.  
 
-##3. What data are you going to use for this? How will you acquire this data?
+3. What data are you going to use for this? How will you acquire this data?
 I will use datasets extracted through the API from nobelprize.org. The API, offered since 2013, has three methods - Prize, Laureate and Country. All the data in the API is available under Creative Commons Zero license. 
 
 Datasets:
@@ -22,8 +22,8 @@ Datasets:
     * cvs files (European Data Portal) 
 * The Good Country Index: https://goodcountry.org/index/overall-rankings
 
-##4. In brief, outline your approach to solving this problem (knowing that this might change later).
+4. In brief, outline your approach to solving this problem (knowing that this might change later).
 --
 
-##5. What are your deliverables? 
+5. What are your deliverables? 
 The deliverables of this project are the code, small research paper, slide deck presentation and a blog post. 
